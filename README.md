@@ -1,22 +1,21 @@
-# Etch-a-Sketch
+# Art-Twist
 
-A simple Etch-a-Sketch application built with HTML, CSS, and JavaScript.
+A simple Art-Twist application built with HTML, CSS, and JavaScript.
 
 ![Etch-a-Sketch](./img/icon.png)
 
 ## Usage
 
-To use the Etch-a-Sketch application, follow these steps:
+To use the Art-Twist application, follow these steps:
 
-1. Open the [Etch-a-Sketch](https://shahir-47.github.io/Etch-a-Sketch/) in a web browser by clicking [here](https://shahir-47.github.io/Etch-a-Sketch/) or copy this link: `https://shahir-47.github.io/Etch-a-Sketch/` and paste it in the address bar of your web browser.
-2. Use the controls to draw on the grid:
+1. Use the controls to draw on the grid:
    - Use the color picker to select a drawing color.
    - Click the "Rainbow mode" button to enable rainbow coloring.
    - Click the "Eraser" button to switch to eraser mode.
    - Click the "Clear" button to clear the entire grid.
    - Toggle the "Toggle Gridlines" checkbox to show/hide gridlines.
    - Adjust the slider to change the size of the grid.
-3. Start drawing on the grid by clicking and dragging the mouse cursor.
+2. Start drawing on the grid by clicking and dragging the mouse cursor.
 
 ## Features
 
@@ -29,16 +28,20 @@ To use the Etch-a-Sketch application, follow these steps:
 
 ## Dependencies
 
-The Etch-a-Sketch application relies on the following files:
+The Art-Twist application relies on the following files:
 
 - `index.html`: Contains the HTML structure of the application.
 - `style.css`: Provides the styles and layout for the application.
 - `script.js`: Implements the functionality and interactivity of the application.
 - `icon.png`: Represents the application icon.
 
-## Credits
+## Preview
 
-This Etch-a-Sketch application is created by [Shahir Ahmed](https://github.com/shahir-47) in 2023.
+
+![Screenshot 2023-08-23 223651](https://github.com/Appandey788/ArtTwist/assets/94311078/97bbe472-d0c2-42b1-a03e-e3ac080b2a2f)
+
+![Screenshot 2023-08-23 223729](https://github.com/Appandey788/ArtTwist/assets/94311078/d52c4c80-f852-4d61-bef3-7957bf65cd5b)
+
 
 ## License
 
