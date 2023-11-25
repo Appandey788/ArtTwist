@@ -43,6 +43,4 @@ The Art-Twist application relies on the following files:
 ![Screenshot 2023-08-23 223729](https://github.com/Appandey788/ArtTwist/assets/94311078/d52c4c80-f852-4d61-bef3-7957bf65cd5b)
 
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
